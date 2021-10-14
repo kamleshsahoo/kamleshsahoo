@@ -19,11 +19,7 @@
 <a href="https://www.r-project.org/">
     <img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"/>
   </a>
-      &emsp;
-  <a href="https://www.latex-project.org/">
-    <img alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
-  </a>
-        &emsp;
+   &emsp;
   <a href="https://daringfireball.net/projects/markdown/">
     <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
   </a>
@@ -68,6 +64,7 @@
 
 ### 👉 Libraries/Tools
 <p align="left"> 
+  
   <a href="https://www.tensorflow.org/" target="_blank"> 
    <img alt="TensorFlow" src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=white">
   </a>   
@@ -92,7 +89,12 @@
     <img alt="Mesa" src="https://img.shields.io/badge/Mesa-%23013243.svg?style=for-the-badge&logo=Mesa&logoColor=white"/>
   </a>
   &emsp;
-  <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252"></a>
+  <a href="https://www.latex-project.org/">
+    <img alt="LaTex" src="https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white"/>
+  </a>
+  &emsp;
+  <a href="https://colab.research.google.com/?utm_source=scs-index"><img alt="Google Colab" src="https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252">
+  </a>
   &emsp;
   <a href="https://docs.microsoft.com/en-us/powershell/"><img alt="Powershell" src="http://img.shields.io/badge/-Powershell-5391FE?style=for-the-badge&logo=powershell&logoColor=ffffff"></a>
   &emsp;
@@ -108,5 +110,3 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kamleshsahoo&hide=TeX&layout=compact)
   
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=kamleshsahoo)
-
-
