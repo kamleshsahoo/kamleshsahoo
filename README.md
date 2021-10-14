@@ -1,6 +1,6 @@
 ### Hello World ! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px">, I'm Kamlesh Sahoo 👋  <img align="right" src="https://komarev.com/ghpvc/?username=kamleshsahoo" alt="kamleshsahoo" />
 
-<em>I am a 2nd Year Master student of Computational Science at <a href="https://www.uva.nl/"><b>University of Amsterdam, Netherlands</b></a>. I am a tech enthusiast & a passionate self-learner. I am always open to collaborating on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: 
+<em>I am a 2nd Year Master student of Computational Science at <a href="https://www.uva.nl/"><b>University of Amsterdam, Netherlands</b></a>. I am a tech enthusiast & a passionate self-learner. I am always open to collaborate on projects and innovative/disruptive ideas. Find out more about me & feel free to connect with me here: 
   
   [![Linkedin Badge](https://img.shields.io/badge/-kamleshsahoo-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/kamlesh-sahoo-a5b4b2106/)](https://www.linkedin.com/in/kamlesh-sahoo-a5b4b2106/)
 [![Instagram Badge](https://img.shields.io/badge/-kamlesh.sahoo20-purple?style=flat-square&logo=instagram&logoColor=white&link=https://www.instagram.com/kamlesh.sahoo20/)](https://www.instagram.com/kamlesh.sahoo20/)
