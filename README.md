@@ -1,7 +1,7 @@
 ## Hey there! 👋 I'm Kamlesh 
 I enjoy programming because it lets me channel my creativity into solving real-world problems.
 
-I love building *Rust*-based backend systems, for memory safe and computationally lean architectures. Recently, I have been playing around with *WASM* frameworks like *Dioxus*, to build lightweight and snappy web interfaces. Checkout my [orderbook](https://github.com/kamleshsahoo/rust_lob) implementation written in pure *Rust*, with a *Dioxus* frontend. 
+I love building *Rust*-based backend systems, for memory safe and computationally lean architectures. Recently, I have been playing around with *WASM* frameworks like *Dioxus*, to build lightweight and snappy web interfaces. Checkout my [orderbook](https://kamleshsahoo.github.io/lob_deploy/) implementation written in pure *Rust*, with a *Dioxus* frontend. 
 
 ### ✍️ I Also Write About
 - **Rust internals** and how to get around the infamous **borrow checker without losing sanity**
